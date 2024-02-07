@@ -26,6 +26,10 @@ export default {
 
         'Laptops': {'min': '1200px', 'max': '1600px'},
 
+        'Desktop': {'min': '1025px', 'max': '1280px'},
+
+        'FullHDDisplay': {'min': '1920px', 'max': '2560px'},
+
         'iPad1and2andMiniandAir': {'min': '768px', 'max': '1024px'},
 
         'iPadPro10.5': {'min': '834px', 'max': '1112px'},
